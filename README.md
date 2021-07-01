@@ -1,6 +1,8 @@
 # Youtube-MP3 for Windows only YET (technically will work anywhere, it's just a batch thing)
 downloads and extracts mp3 files from youtube playlist and just downloads music if you throw a link at it
 # Dependencies
+* Intall python libraries from .deps
+download 3rd party tools
 * youtube-dl.exe
 * ffmpeg.exe
 * ffprobe.exe
